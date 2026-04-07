@@ -1,5 +1,5 @@
 
-# SkyNova: Mastering Multi-Task Remote Sensing with Mixture of LoRA Experts
+# SkyNova: A Knowledge-Internalized Vision-Language Model for Closed-Book QA and Multi-Task Interpretation in Remote Sensing
 
 #### Heng Zhou , Quanjun Zhang , Junjie Huang , Jingzhou Chenand Liang Xiao
 \* Equally contributing first authors
@@ -47,7 +47,7 @@ pip uninstall transformers
 pip install -e .
 ```
 
-##  Weights and Demo
+## Pre-trained Model's Weights and Demo
 
 The SkyNova models are available on the Hugging Face Hub.
 
